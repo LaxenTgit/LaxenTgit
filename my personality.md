@@ -63,7 +63,6 @@ Sabır             ███████░░░░░░░  55%
 > Çok konuşmam. Çünkü herkes saçma gelir
 > Yüzüme bakınca ne hissettiğimi anlayamazsın bende anlamıyorum —
 > ama ekrana bakınca kim olduğumu anlarsın.
-> depresyon & derenalizasyon dönemi hayatımı batırıyor
 
 ---
 
