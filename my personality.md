@@ -17,19 +17,19 @@ class LatenT:
 
     # — Karakter
     traits      = [
-        "Direkt ve dürüst",       # ne düşünüyorsam onu söylerim
-        "Sessiz ama gözlemci",    # az konuşurum, çok izlerim
+        "net ve hakim",       # emin olmassam o şeyi söylemem
+        "Kişilik bozukluğu",    # herzaman kişilik değiştirim
     ]
 
     # — Çalışma düzeni
     peak_hours  = "23:00 → 03:00 🌙"
-    style       = "Kulaklık tak, ekrana gömül, dış dünyayı unut"
+    style       = "music + coding <3"
 
     # — Siber güvenlik dışında
     interests   = ["müzik 🎵", "film & dizi 🎬", "spor 🏃"]
 
     # — Felsefe
-    motto       = "Az konuş, çok üret."
+    motto       = "Az Konuş, En iyisini yap"
 
     def __str__(self):
         return "Dışardan göründüğüm gibi değilim :3"
@@ -37,42 +37,43 @@ class LatenT:
 
 ---
 
-### 🌙 Gece Kuşu
+### 🌙 NİGHT
 
 ```bash
 $ cat /proc/latent/uptime
 > En verimli saat    : 23:00 — 03:00
 > Sabah              : hayır
 > Kahve gerekli mi?  : evet, her zaman
-> Ses                : lo-fi veya hiçbir şey
+> Ses                : lo-fi veya rebzyyx sonrası YOOOOK (belki tv girl fln)
 ```
 
-Gece sessizleşince düşünceler netleşiyor. Kodun en temiz hali, dünyanın uyuduğu saatlerde çıkıyor.
+Gece sessizleşince düşünceler netleşiyor. En sevdiğim olayıda bu
 
 ---
 
-### 🎭 Karakter Analizi
+### 🎭 Karakter
 
 ```
-Sessiz & Gözlemci ████████████░░  85%
-Direkt & Dürüst   ██████████░░░░  75%
-Meraklı           █████████░░░░░  70%
-Sabırlı           ███████░░░░░░░  55%
+Anlam verememek    ████████████░░  85%
+Olgunluk          ██████████░░░░  75%
+Merak             █████████░░░░░  70%
+Sabır             ███████░░░░░░░  55%
 ```
 
-> Çok konuşmam. Ama bir şey söylediğimde düşünerek söylerim.
-> Yüzüme bakınca ne hissettiğimi anlayamazsın —
+> Çok konuşmam. Çünkü herkes saçma gelir
+> Yüzüme bakınca ne hissettiğimi anlayamazsın bende anlamıyorum —
 > ama ekrana bakınca kim olduğumu anlarsın.
+> depresyon & derenalizasyon dönemi hayatımı batırıyor
 
 ---
 
 ### 🎵 Müzik / 🎬 Film & Dizi / 🏃 Spor
 
 ```
-Kod yazarken     →  lo-fi, instrumental, ambient
-Kafam dağınıkken →  ritim hızlanır
+Kod yazarken     →  lo-fi, rebzyyx, tvgirl, electro müzikler
+Kafam dağınıkken →  herşey anlamsızca hızlanır
 Spor             →  kafayı boşaltmanın en hızlı yolu
-Film & dizi      →  genelde gece, tek başıma, sessizce
+Film & dizi      →  genelde gece, tek başıma, sessizce izlerim
 ```
 
 ---
@@ -81,10 +82,10 @@ Film & dizi      →  genelde gece, tek başıma, sessizce
 
 ```python
 if insan.dinliyor and insan.anliyor:
-    print("seninle konuşurum")
+    print("beni anladığından emin değilim")
 
 elif insan.sadece_konusuyor:
-    print("sessizce gözlemlerim")
+    print("çekip giderim")
 
 else:
     print("...")
@@ -97,8 +98,8 @@ else:
 ```
 - Tanışmak zor, anlamak daha zor
 - Ama bir kez anladın mı, dışardan göründüğüm gibi değilim :3
-- Siber güvenlik benim için sadece kariyer değil — bir düşünme biçimi
-- Sistemleri kırmak, onları gerçekten anlamaktan geçiyor
+- Siber güvenlik benim için sadece kariyer değil — kafamı rahatlatan oşey
+- Sistemleri kırmak, onları gerçekten anlamaktan geçiyor. 
 ```
 
 ---
