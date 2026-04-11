@@ -22,6 +22,7 @@
 ---
 
 ### 🧠 About Me
+```
 Merhaba ben Miraç Siber güvenlik ve etik hacking alanına yönelik biriyim.
 
 📡 Ağ Güvenliği — MITM, port scanning, WiFi güvenliği, trafik analizi ve ağ protokolleri üzerine çalışıyorum.
@@ -30,7 +31,7 @@ Merhaba ben Miraç Siber güvenlik ve etik hacking alanına yönelik biriyim.
 🚩 HackTheBox ve TryHackMe platformlarında düzenli olarak CTF ve lab’lar çözüyorum.
 🛠️ API reconnaissance’dan network scanner’lara kadar çeşitli açık kaynak araçlar üretiyorum.
 💬 Network güvenliği, web application security ve Python ile araç geliştirme konularında sohbet etmeye her zaman açığım.
-
+```
 ---
 
 ### 🛠️ Tech Stack
