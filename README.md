@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:667eea&height=200&section=header&text=LatenT&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Network%20Hacker%20%7C%20Pentester%20%7C%20CTF%20Player&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0a0a0a,25:1a1a1a,40:2d1b69,55:5a189a,70:e5383b,85:f94144,100:fa4a4d&height=280&section=header&text=HX%20SCANNER&fontSize=95&fontColor=ffffff&fontAlignY=38&fontWeight=900" width="100%"/>
 
 </div>
 
