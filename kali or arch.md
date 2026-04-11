@@ -1,3 +1,4 @@
+```
 ┌──(latent㉿kali)-[~]
 └─$ dir
 Myfile  Videos  Home
@@ -37,3 +38,4 @@ and built in toolset Only these two Linux distributions are considered excluding
 
 ┌──(latent㉿kali)-[~]
 └─$ reboot
+```
