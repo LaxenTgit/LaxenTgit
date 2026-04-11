@@ -1,141 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:667eea&height=200&section=header&text=LatenT&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Network%20Penetration%20Tester%20%7C%20Security%20Researcher&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Network+Penetration+Tester+📡;Security+Researcher+%26+Tool+Developer;Breaking+and+Understanding+Systems+🔓" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=120&section=header&text=LatenT&fontSize=65&fontColor=ffffff" width="100%"/>
 </div>
 
 <br>
----
-
 ```markdown
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=120&section=header&text=LatenT&fontSize=65&fontColor=ffffff" width="100%"/>
+</div>
 
 ```bash
-┌──(latent㉿kali)-[~/github]
+┌──(latent㉿kali)-[~]
 └─$ whoami
-> Miraç — alias: LatenT
+> Miraç (LatenT) — 13 years old
 > Location: Turkey 🇹🇷
-> Passion: Network Security • Web Application Security • Tool Development
-> Currently: Actively learning and practicing offensive security
+> Started: 2 years ago
+> Currently: Learning, breaking, and automating things
+> Passion: Networks, Automation & Terminal
 ```
 
 ---
 
 ### 🧠 About Me
 
-Merhaba, ben Miraç.  
+Merhaba, ben Miraç. 13 yaşındayım ve **2 senedir** siber güvenlik ve offensive security ile uğraşıyorum.
 
-Siber güvenlik alanında odaklanmış bir pentester ve güvenlik araştırmacısıyım. Özellikle ağ penetrasyon testleri, web uygulama güvenliği ve kendi güvenlik araçlarımı geliştirme konularına yoğunlaşıyorum.
+Network taramaları, otomasyon araçları, WiFi atakları ve web pentest konularında aktif olarak çalışıyorum. Lab ortamlarında ve CTF’lerde çok fazla pratik yapıyorum. Terminali ve CLI araçlarını çok seviyorum, onlar olmadan pek iş yapamıyorum.
 
-**İlgi Alanlarım**
-- Network Penetration Testing (Port scanning, service enumeration, MITM, traffic analysis)
-- Web Application Security (OWASP Top 10, API testing, vulnerability research)
-- Custom Security Tool Development (Python ve Bash ağırlıklı)
-- Active Directory ve Red Team teknikleri
-- CTF'ler ve gerçekçi senaryolar üzerinden pratik yapma
-
-Şu anda **HackTheBox** ve **TryHackMe** platformlarında aktif olarak machine ve challenge çözüyorum. Her çözdüğüm makineden yeni teknikler öğrenerek ilerliyorum.
-
-**Aktif olarak çalıştığım konular:**
-- Network reconnaissance ve enumeration
-- Web ve API güvenlik testleri
-- Python ile otomasyon ve güvenlik araçları geliştirme
-- Wireless network güvenliği
+**Özellikle iyi olduğum alanlar:**
+- Network Reconnaissance & Automation
+- WiFi Attacks (Evil Twin, MITM, Deauth)
+- Web Application Pentesting
+- Python ile kendi güvenlik araçlarımı geliştirme
 
 ---
 
-### Tech Stack
+### Current Focus & Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+- **MAtexX Scanner** → Kendi yazdığım reconnaissance aracı (Whois + Nmap + OSINT aynı anda çalışıyor) # yapım aşamasında ama hala
+- Python ile otomasyon script’leri ve scanner’lar
+- HackTheBox ve TryHackMe üzerinde düzenli machine çözüyorum (Tek Gecede 2-3 arası)
+- Evil Twin ve MITM atakları üzerine pratikler Yada direkt wifi saldırıları bana göre iyi ve uzmanlık alanım
 
 ---
 
-### Tools & Frameworks
+### Skills
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Nuclei-FF69B4?style=for-the-badge&logoColor=white" alt="Nuclei">
-  <img src="https://img.shields.io/badge/SQLMap-FF5733?style=for-the-badge&logoColor=white" alt="SQLMap">
-  <img src="https://img.shields.io/badge/Bettercap-000000?style=for-the-badge&logoColor=white" alt="Bettercap">
-  <img src="https://img.shields.io/badge/Gobuster-228B22?style=for-the-badge&logoColor=white" alt="Gobuster">
-  <img src="https://img.shields.io/badge/Feroxbuster-4682B4?style=for-the-badge&logoColor=white" alt="Feroxbuster">
-</div>
+**Languages**  
+Python • Go • C# • JavaScript • Bash • HTML/CSS
+
+**Systems**  
+Kali Linux • Parrot OS • Ubuntu • Fedora • Arch Linux
+
+**Core Interests**  
+Network Scanning & Enumeration • WiFi Security • Web Pentesting • Tool Development • Automation
 
 ---
 
-### Security Focus Areas
+### Tools I Use Frequently
 
-```bash
-[*] Network Penetration Testing
-    ├── Reconnaissance & Enumeration
-    ├── MITM & Traffic Manipulation
-    ├── Wireless Security Assessments
-    └── Packet Analysis
-
-[*] Web Application Security
-    ├── OWASP Top 10 Testing
-    ├── API Security
-    └── Vulnerability Discovery & Exploitation
-
-[*] Tool Development
-    ├── Custom Python scanners & automation tools
-    └── Reconnaissance frameworks
-```
+Nmap • Wireshark • Bettercap • SQLMap • Burp Suite • Metasploit • Gobuster • Feroxbuster • Aircrack-ng Suite • Custom Python Tools
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HargosAktif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=667eea&text_color=c9d1d9"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HargosAktif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HargosAktif&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=667EEA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LaxenTgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=667eea&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxenTgit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 </div>
 
 ---
 
-### 📫 Bana Ulaş
+### 📫 Contact
 
 <div align="center">
-  <a href="https://github.com/LaxenTgit"><img src="https://img.shields.io/badge/GitHub-HargosAktif-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://instagram.com/alwayshimlol"><img src="https://img.shields.io/badge/Instagram-xsociety-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/LaxenTgit"><img src="https://img.shields.io/badge/GitHub-LaxenTgit-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="mailto:miracakkus836@gmail.com"><img src="https://img.shields.io/badge/Email-miracakkus836@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
+<br>
 
 <div align="center">
-  <strong>"The quieter you become, the more you can hear."</strong>
+  <strong>"Terminal is my best friend."</strong>
 </div>
 ```
 
 ---
 
-### Bu versiyonun farkları:
-- "Expert", "Speciality", "Hacker" gibi abartılı kelimeler tamamen kaldırıldı.
-- Daha profesyonel ve mütevazı bir dil kullanıldı.
-- Gerçekçi bir "öğrenme yolculuğu" havası verildi.
-- Tool listesi kısaltıldı ve daha mantıklı hale getirildi.
-- Yaş bilgisi yok.
-- Tasarım hâlâ çok güzel ve dikkat çekici.
-
-İstersen daha kısa, daha uzun veya belirli bir bölümü değiştirebilirim.  
-
-Hazır haliyle direkt kopyalayıp kullanabilirsin. Beğendin mi?
+Değiştirmek istediğin yer olursa (daha kısa, daha uzun, bir şey ekle/çıkar) hemen söyle, anında düzenleyeyim.
