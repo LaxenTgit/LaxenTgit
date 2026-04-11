@@ -3,34 +3,38 @@
 </div>
 
 ---
-```python
 class LatenT:
     def __init__(self):
-        # whoami?
-        self.name       = "Miraç"
-        self.alias      = "LatenT"
-        self.age        = 13
-        self.location   = "Samsun, Turkey 🇹🇷"
-        
-        # I love this
-        self.traits     = [
-            "Yaşıtları ona göre saçmalıktır.",
-            "Yanlız Başıma Gezmeyi Severim",
-            "%100 Olmadan inanmayan birisiyim",
-            "Geceleri pek uyumam 🌙",
-            "Müzik + Kod = Terapi"
-            "Aslında eğlenceli biriyim:3"
+        self.name = "Miraç"
+        self.alias = "LatenT"
+        self.age = 13
+        self.location = "Turkey 🇹🇷"
+
+        self.status = "Security learner"
+
+        self.traits = [
+            "Meraklı ve araştırmayı seven",
+            "Sürekli öğrenmeye odaklı",
+            "Pratik yaparak gelişen",
+            "Gece saatlerinde daha aktif"
         ]
-        
-        # Working style
-        self.peak_hours = "23:00 → 04:20"
-        self.style      = "lo-fi + rebzyyx + TV/girl + Cybercore + Under Your Spell + Dark triad"
-        
-        # Myself :dD
-        self.interests  = ["müzik 🎵", "film & dizi 🎬", "spor 🏃‍♂️", "kahve ☕", "Koşu🏃‍♂️"]
-        
-        # Felsefe
-        self.motto      = "Görmeden Anlamadan Yapılan şeyde er yada geç bir bozukluk vardır."
-    
+
+        self.interests = [
+            "Cyber Security",
+            "Networking",
+            "Web Security",
+            "Programming",
+            "Automation"
+        ]
+
+        self.tools = [
+            "Linux (Kali / Ubuntu)",
+            "Python",
+            "Burp Suite (learning)",
+            "Nmap (practice)"
+        ]
+
+        self.motto = "Learn, break, understand, fix"
+
     def __str__(self):
-        return "Dışarıdan göründüğüm gibi değilim. Sevmesini bilirim:3D"
+        return "Learning security step by step"
