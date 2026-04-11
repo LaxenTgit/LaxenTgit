@@ -1,15 +1,13 @@
 ┌──(latent㉿kali)-[~]
 └─$ dir
-Myfile
-Videos
-Home
+Myfile  Videos  Home
 
 ┌──(latent㉿kali)-[~]
 └─$ cd Myfile
 
 ┌──(latent㉿kali)-[Myfile]
 └─$ ls -la
-
+total 16
 drwxr-xr-x  2 latent latent 4096 Apr 11 20:10 .
 drwxr-xr-x 10 root   root   4096 Apr 11 20:00 ..
 -rw-r--r--  1 latent latent  128 Apr 11 20:10 latent
@@ -20,12 +18,11 @@ drwxr-xr-x 10 root   root   4096 Apr 11 20:00 ..
 Arch Linux OR Kali Linux latent?
 answer.
 
-┌──(latent㉿kali)-[~]
+┌──(latent㉿kali)-[Myfile]
 └─$ cd ..
 
 ┌──(latent㉿kali)-[~]
 └─$ nano answer.py
-
 coding....
 
 ┌──(latent㉿kali)-[~]
