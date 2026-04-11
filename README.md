@@ -132,12 +132,36 @@ Merhaba ben Miraç Siber güvenlik ve etik hacking alanına yönelik biriyim.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
+```html
 <div align="center">
 
-**"The quieter you become, the more you can hear."**
+```
 
+"The quieter you become, the more you can hear."
+"Sessizleştikçe, daha fazlasını duyarsın."
+
+```
+
+---
+
+Kali Linux Philosophy | Pentest Mindset
+
+> Listen. Observe. Exploit. Adapt.
+> Dinle. Gözlemle. Sömür. Uyum sağla.
+
+```
+
+[ SYSTEM MESSAGE ]
+"The quieter you become, the more you can hear."
 — Kali Linux
 
+STATUS: Listening... | DURUM: Dinleniyor...
+MODE: Offensive Security / Sızma Testi
+
+```
+
 </div>
+```
+
 
 </div>
