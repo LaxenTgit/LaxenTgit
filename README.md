@@ -1,8 +1,3 @@
-**İşte tamamen yeniden yazdığım, profesyonel, gerçekçi ve %0 script kiddie havası veren yeni README versiyonu:**
-
----
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:667eea&height=200&section=header&text=LatenT&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Network%20Penetration%20Tester%20%7C%20Security%20Researcher&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 </div>
@@ -11,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Network+Penetration+Tester+📡;Security+Researcher+%26+Tool+Developer;Breaking+and+Understanding+Systems+🔓" alt="Typing SVG" />
 </div>
 
+<br>
+---
+
+```markdown
 <br>
 
 ```bash
