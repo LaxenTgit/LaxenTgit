@@ -6,15 +6,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Network%20Penetration%20Tester%20%F0%9F%93%A1;Python%20Security%20Tool%20Developer%20%F0%9F%90%8D;CTF%20Player%20@%20HTB%20%26%20THM%20%F0%9F%9A%A9;Breaking%20things%20to%20understand%20them...%F0%9F%94%93)](https://git.io/typing-svg)
 </div>
 
-<br>
+---
 
-```bash
+
 ┌──(latent㉿kali)-[~]
 └─$ whoami
-> Miraç — alias: LatenT
-> Age: 13 | Location: Turkey 🇹🇷
-> Focus: Network Security • Web Security • Tool Development
-> Currently: Learning & Breaking stuff responsibly 🔬
+Miraç — alias: LatenT
+Age: 13 | Location: Turkey 🇹🇷
+Focus: Network Security • Web Security • Tool Development
+Currently: Learning & Breaking stuff responsibly 🔬
 
 🧠 About Me
 
