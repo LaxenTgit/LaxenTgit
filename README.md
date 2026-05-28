@@ -66,14 +66,19 @@ Contributed to two independent security-focused projects as both a developer and
 | Project | Description | Status |
 |---------|-------------|--------|
 | [latent-probe](https://github.com/LaxenTgit/latent-probe) | Multi-stage recon tool — subdomains, ports, web checks, basic vuln detection | Active |
-| lat-finder | Fast async subdomain discovery | Active |
-| shenwin | Username intelligence (Sherlock/Maigret style) | Active |
+| [lat-finder](https://github.com/LaxenTgit/lat-finder) | Fast async subdomain discovery | Active |
+| [shenwin](https://github.com/LaxenTgit/shenwin) | Username intelligence across 500+ platforms with variation engine | Active |
+| [LanScope](https://github.com/LaxenTgit/LanScope) | Multithreaded LAN scanner — device discovery, MAC detection, port scanning | Active |
+| [webrecon](https://github.com/LaxenTgit/webrecon) | Web reconnaissance tool | Active |
+| [XorDecoder](https://github.com/LaxenTgit/XorDecoder) | XOR cracker for CTF challenges | Active |
+| [HX-Hash-Cracker](https://github.com/LaxenTgit/HX-Hash-Cracker) | Fast hash cracking utility | Active |
+| [whois-lookup](https://github.com/LaxenTgit/whois-lookup) | Clean WHOIS query tool with auto text export | Active |
+| [hx-history](https://github.com/LaxenTgit/hx-history) | Readable terminal history viewer for Kali Linux | Active |
+| [NMAP-scanner](https://github.com/LaxenTgit/NMAP-scanner) | Nmap automation wrapper | Active |
+| [server-alive](https://github.com/LaxenTgit/server-alive) | Service availability checker | Active |
 | latentSC | Combined pentest toolkit | In development |
-| SEA AI | AI assistant with security modules | Working |
+| SEA AI | AI assistant with security modules | In development |
 | FastOS | System information gathering | Active (private) |
-| Cracker | Hash/password cracking utility | Working |
-| no-tagged | Network traffic monitoring script | Working |
-| whois-lookup-by-latent | Enhanced WHOIS lookup | Active |
 
 ---
 
