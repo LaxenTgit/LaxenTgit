@@ -10,119 +10,94 @@
 ┌──(latent㉿kali)-[~]
 └─$ cat whoami.txt
 
-Name : Miraç (LatenT / LaXenT)
-Location : Turkey 🇹🇷
-Experience : 3+ years (self-taught, daily practice)
-Focus : Offensive Security · Network Security · Pentesting
-Status : Learning · Building tools · Security research
+Name     : Miraç (LatenT / LaXenT)
+Location : Turkey
+Focus    : Offensive Security · Network Security · Tool Development
+Method   : Hands-on research · CTF challenges · Independent testing
+Status   : Building · Breaking · Learning
 ```
 
 ---
 
-## About Me
+## About
 
-I have been involved in cybersecurity for over 3 years. My experience is based on hands-on research, CTF challenges, and independent testing rather than formal education.
+3+ years in cybersecurity, built through practice rather than theory.
+I focus on understanding how systems break — and building tools that make that process faster.
 
-I focus on understanding how systems work at a low level and building tools that automate security workflows.
-
----
-
-## Core Focus Areas
-
-- Network reconnaissance and enumeration (Nmap, service analysis, network mapping)
-- Web application security (XSS, SQLi, IDOR, Burp Suite workflows)
-- Wireless security testing (Evil Twin, MITM concepts, Aircrack-ng tools)
-- Security tool development (Python, Go, C# automation tools)
+Currently working on recon automation, web exploitation utilities, and a combined security toolkit.
 
 ---
 
 ## Experience
 
-### Authorized School Network Security Test
+### Authorized School Network Security Assessment
 
-With permission from an IT instructor, I performed a security assessment of a school network.
+Performed a full security assessment on a school network with written permission from the IT department.
 
 **Findings:**
-- Default credentials were used on multiple devices
-- Exposed services (SSH and RPC) accessible across the network
-- Lack of basic hardening on internal systems
+- Default credentials on multiple network devices
+- SSH and RPC services exposed across the internal network
+- Minimal hardening on critical internal systems
 
-**Outcome:**
-A report was delivered and security issues were fixed (passwords changed, unnecessary services disabled).
+**Outcome:** Delivered a findings report. Issues were remediated — credentials updated, unnecessary services disabled.
 
 ---
 
-### Bug Bounty Experience
+### Bug Bounty
 
-- Discovered and reported XSS vulnerabilities on multiple targets
-- Created PoCs and submitted responsible disclosures
-- Gained practical experience in web application security
+- Identified and reported XSS vulnerabilities across multiple targets
+- Wrote proof-of-concept exploits and submitted responsible disclosures
+- Practical experience in web application security workflows
 
-**Clans Experience**
+---
 
-* Contributed to two independent projects (Ravix and Alovera) focusing on security engineering and client-side development.
-* Worked on analyzing and improving system security, including identifying weaknesses in application logic, access control mechanisms, and internal client workflows.
-* Participated in development of client-side components and tooling, with emphasis on performance, stability, and secure design practices.
-* Collaborated with project stakeholders to deliver functional improvements and security-oriented fixes across multiple iterations.
-* Gained hands-on experience in applied security concepts within real-world project environments rather than isolated lab scenarios.
-* Total project-based compensation across both engagements was approximately 50,000 TL.
+### Independent Security Projects (Ravix & Alovera)
+
+Contributed to two independent security-focused projects as both a developer and security consultant.
+
+- Analyzed application logic flaws, access control weaknesses, and internal workflow vulnerabilities
+- Developed and hardened client-side components with focus on stability and secure design
+- Delivered iterative security improvements across multiple project cycles
 
 ---
 
 ## Projects
 
 | Project | Description | Status |
-|--------|-------------|--------|
-| Latent-Probe | Multi-stage reconnaissance tool (subdomains, ports, web checks, basic vulnerability checks) | Active | ### 🛠️ Featured Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LaxenTgit&repo=latent-probe&theme=radical)](https://github.com/LaxenTgit/latent-probe)
-| SEA AI | AI assistant with security-related modules | Working |
-| lat-finder | Fast async subdomain discovery tool | Active |
-| shenwin | Username intelligence tool (Sherlock + Maigret style) | Active |
-| FastOS | System information gathering tool | Active (private) |
-| latentSC | Combined security toolkit (all-in-one pentest utilities) | In development |
-| Cracker | Hash/password cracking utility (educational) | Working |
+|---------|-------------|--------|
+| [latent-probe](https://github.com/LaxenTgit/latent-probe) | Multi-stage recon tool — subdomains, ports, web checks, basic vuln detection | Active |
+| lat-finder | Fast async subdomain discovery | Active |
+| shenwin | Username intelligence (Sherlock/Maigret style) | Active |
+| latentSC | Combined pentest toolkit | In development |
+| SEA AI | AI assistant with security modules | Working |
+| FastOS | System information gathering | Active (private) |
+| Cracker | Hash/password cracking utility | Working |
 | no-tagged | Network traffic monitoring script | Working |
-| whois-lookup-by-latent | Enhanced WHOIS lookup tool | Active |
-| server-alive | Service availability checker | Working |
-
----
-
-## Other Activities
-
-- Mentoring beginners in cybersecurity and CTF challenges
-- Performing free penetration tests in controlled environments
-- Writing automation scripts for security tasks
-- Developing anti-cheat and server-side security tools (Lua / Python)
-- Assisting in CTF problem-solving communities
+| whois-lookup-by-latent | Enhanced WHOIS lookup | Active |
 
 ---
 
 ## Skills
 
-**Programming Languages**
+**Languages:** Python · Go · C# · JavaScript · Bash
 
-Python · Go · C# · JavaScript · Bash
+**Tools:** Nmap · Wireshark · Burp Suite · Metasploit · SQLMap · Gobuster · Feroxbuster · Aircrack-ng · Scapy · Hashcat · John the Ripper
 
+**Systems:** Kali Linux · Parrot OS · Arch Linux · BlackArch · Ubuntu · Windows
 
-**Operating Systems**
-
-Kali Linux · Parrot OS · Arch Linux · BlackArch · Ubuntu · Windows
-
-
-**Tools**
-
-Nmap · Wireshark · Burp Suite · Metasploit · SQLMap
-Gobuster · Feroxbuster · Aircrack-ng · Scapy · Hashcat · John the Ripper
-
-
-**Platforms**
-
-HackTheBox · TryHackMe
-
+**Platforms:** HackTheBox · TryHackMe
 
 ---
 
-## GitHub Stats
+## Other
+
+- Mentoring beginners in CTF and security fundamentals
+- Free penetration testing in authorized environments
+- Anti-cheat and server-side security tooling (Lua / Python)
+
+---
+
+## Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=LaxenTgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0"/>
