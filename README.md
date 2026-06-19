@@ -21,7 +21,7 @@ Status   : Building · Breaking · Learning
 
 ## About
 
-3+ years in cybersecurity, built through practice rather than theory.
+1+ years in cybersecurity, built through practice rather than theory.
 I focus on understanding how systems break — and building tools that make that process faster.
 
 Currently working on recon automation, web exploitation utilities, and a combined security toolkit.
@@ -67,6 +67,7 @@ Contributed to two independent security-focused projects as both a developer and
 |---------|-------------|--------|
 | [latent-probe](https://github.com/LaxenTgit/latent-probe) | Multi-stage recon tool — subdomains, ports, web checks, basic vuln detection | Active |
 | [lat-finder](https://github.com/LaxenTgit/lat-finder) | Fast async subdomain discovery | Active |
+| [password-analyzer](https://github.com/LaxenTgit/password-analyzer) | you think, you have bad password? use it| Active |
 | [shenwin](https://github.com/LaxenTgit/shenwin) | Username intelligence across 500+ platforms with variation engine | Active |
 | [LanScope](https://github.com/LaxenTgit/LanScope) | Multithreaded LAN scanner — device discovery, MAC detection, port scanning | Active |
 | [webrecon](https://github.com/LaxenTgit/webrecon) | Web reconnaissance tool | Active |
