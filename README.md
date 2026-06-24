@@ -68,7 +68,7 @@ Contributed to two independent security-focused projects as both a developer and
 | [latent-probe](https://github.com/LaxenTgit/latent-probe) | Multi-stage recon tool — subdomains, ports, web checks, basic vuln detection | Active |
 | [phishing-detector](https://github.com/LaxenTgit/phishing-detector) | Phishing kit analysis — HTML/JS obfuscation, DNS age, SSL cert, favicon hash, 0-100 risk score | Active 
 | [lat-finder](https://github.com/LaxenTgit/lat-finder) | Fast async subdomain discovery | Active |
-| [password-analyzer](https://github.com/LaxenTgit/password-analyzer) | you think, you have bad password? use it| Active |
+| [password-analyzer](https://github.com/LaxenTgit/password-analyzer) | you think your password is fine. it probably isn't use it| Active |
 | [shenwin](https://github.com/LaxenTgit/shenwin) | Username intelligence across 500+ platforms with variation engine | Active |
 | [LanScope](https://github.com/LaxenTgit/LanScope) | Multithreaded LAN scanner — device discovery, MAC detection, port scanning | Active |
 | [webrecon](https://github.com/LaxenTgit/webrecon) | Web reconnaissance tool | Active |
