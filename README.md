@@ -10,7 +10,7 @@
 ┌──(latent㉿kali)-[~]
 └─$ cat whoami.txt
 
-Name     : Miraç (LatenT / LaXenT)
+Name     : Latent/Laxent
 Location : Turkey
 Focus    : Offensive Security · Network Security · Tool Development
 Method   : Hands-on research · CTF challenges · Independent testing
