@@ -30,7 +30,7 @@ answer.
 
 ┌──(latent㉿kali)-[~]
 └─$ nano answer.py
-coding....
+tryping.
 
 ┌──(latent㉿kali)-[~]
 └─$ torsocks python3 answer.py
@@ -43,5 +43,5 @@ and built in toolset Only these two Linux distributions are considered excluding
 └─$ kill -9 -1
 
 ┌──(latent㉿kali)-[~]
-└─$ reboot
+└─$ shutdown now
 ```
